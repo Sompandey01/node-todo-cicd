@@ -2,6 +2,6 @@ version: '3.9'
 
 services:
   web:
-    image: "trainwithshubham/Note-app:latest"
+    image: "trainwithshubham/webhook-note-app:latest"
     ports:
       - "8000:8000"
